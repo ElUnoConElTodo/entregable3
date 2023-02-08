@@ -1,0 +1,35 @@
+body {
+  margin: 10px;
+
+}
+
+html {
+box-sizing: border-box;
+font-family: cursive;
+}
+
+*, *::after, *::before {
+  box-sizing: inherit;
+}
+img {
+  max-width: 100%;
+}
+.img1{
+  position: relative;
+}
+.img2{
+  max-width: 35%;
+  position: absolute;
+  top: 7%;
+  left: 33.5%;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h5, h6 {
+  margin: 0;
+}

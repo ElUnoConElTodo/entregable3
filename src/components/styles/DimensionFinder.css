@@ -1,0 +1,9 @@
+.searcher{
+    display: flex;
+    justify-content: end;
+    margin-right: 10px;
+    
+}
+.btn-search{
+    font-size: 17px;
+}
